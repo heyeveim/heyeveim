@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Science for Sports Project</b>
+  - [The Foul Factor: Predicting Fouling Out in NBA Games](https://github.com/heyeveim/NBA_foul_analysis/tree/main)
 
 <h2>📺 Certification </h2>
 
