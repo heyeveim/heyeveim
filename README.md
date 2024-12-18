@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
+- <b>Jet Blue Project</b>
+
 - <b>Data Science for Sports Project</b>
   - [The Foul Factor: Predicting Fouling Out in NBA Games](https://github.com/heyeveim/NBA_foul_analysis/tree/main)
+ 
+- <b>Street Style Analysis (LA vs. NYC) </b>
+    
 
 <h2>📺 Certification </h2>
 
