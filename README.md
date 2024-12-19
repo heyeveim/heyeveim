@@ -3,6 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Jet Blue Project</b>
+    - [JetBlue Route Analysis & Profit Optimization](https://github.com/heyeveim/JetBlue_Route_Profitability_and_Optimization_Analysis) 
 
 - <b>Data Science for Sports Project</b>
   - [The Foul Factor: Predicting Fouling Out in NBA Games](https://github.com/heyeveim/NBA_foul_analysis/tree/main)
