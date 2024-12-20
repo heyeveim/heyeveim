@@ -9,7 +9,7 @@
   - [The Foul Factor: Predicting Fouling Out in NBA Games](https://github.com/heyeveim/NBA_foul_analysis/tree/main)
  
 - <b>AWS Project</b>
-     - [The Foul Factor: Predicting Fouling Out in NBA Games](https://github.com/heyeveim/NBA_foul_analysis/tree/main)
+     - [Loan Default Dimensional Modeling Project](https://github.com/heyeveim/Loan-Default-Modeling)
 
 - <b>Street Style Analysis (LA vs. NYC) </b>
     
