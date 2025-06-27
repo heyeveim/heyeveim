@@ -1,7 +1,10 @@
 <h1>Hi, I'm Yujin! 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
-
+ 
+- <b>AI-Driven Fairness Measurement and Summarization in LLMs:
+An Examination for Financial Institutions</b>
+      
 - <b>Jet Blue Project</b>
     - [JetBlue Route Analysis & Profit Optimization](https://github.com/heyeveim/JetBlue_Route_Profitability_and_Optimization_Analysis) 
 
